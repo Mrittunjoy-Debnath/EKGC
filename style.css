@@ -1,0 +1,60 @@
+body {
+    background-image: url(images/logo.jpg);
+}
+
+.header-top {
+    background-color: #A9CCE3;
+    height: 36px;
+}
+
+.mque .notice3 {
+    padding: 20px;
+    background-color: #F5F5F5;
+}
+
+.mque .notice3 ul li {
+    padding: 6px;
+}
+
+.mque .notice3 ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.founder {
+    background-color: white;
+}
+
+.sect {
+    background-color: white;
+    padding: 15px;
+}
+
+.list {}
+
+.list ul,
+li {
+    float: left;
+    padding: 10px 20px;
+}
+
+.list li {
+    list-style: none;
+}
+
+.list a {
+    text-decoration: none;
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+i {
+    background-color: #322f30;
+    transition: .5s;
+    color: white;
+    padding: 5px;
+}
